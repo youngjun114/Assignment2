@@ -1,9 +1,8 @@
-/**
- An interface that describes the operations of a bag of objects.
- @author Frank M. Carrano
- @author Timothy M. Henry
- @version 4.1
- */
+// Youngjun Woo
+// CS240
+// Assignment 1
+// 4/17/2018
+
 public interface BagInterface<T>
 {
     /** Gets the current number of entries in this bag.
