@@ -1,3 +1,8 @@
+// Youngjun Woo
+// CS240
+// Assignment 1
+// 4/17/2018
+
 public interface PilingInterface
 {
     /** Adds a new book to the top of this pile.
