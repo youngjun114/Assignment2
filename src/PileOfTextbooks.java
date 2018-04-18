@@ -1,3 +1,8 @@
+// Youngjun Woo
+// CS240
+// Assignment 1
+// 4/17/2018
+
 import java.util.Arrays;
 
 public final class PileOfTextbooks implements PilingInterface
